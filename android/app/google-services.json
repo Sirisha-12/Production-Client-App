@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690507808482",
+    "project_id": "fir-productionapp",
+    "storage_bucket": "fir-productionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690507808482:android:7d56f0dd28ca8c10e3a8bb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_production_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0Nd6U1NLa5iSvL3WMeoxGzCxYcHpi9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690507808482:android:7d4d41524edd37d4e3a8bb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_production_client_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0Nd6U1NLa5iSvL3WMeoxGzCxYcHpi9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
